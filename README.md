@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend Web Development (ASP.NET)
 - 💞️ I’m looking to collaborate on anything new that will give me great experience 😄😄
 - 📫 How to reach me, email: chetan.gupta@chicmic.co.in
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chetanworkprofile&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chetanworkprofile&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanworkprofile&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
